@@ -1,1 +1,9 @@
-{"playerName":"Player","highscore":100}
+{
+    "players": [
+        {
+            "playerName": "RedTech",
+            "highscore": 14,
+            "coins": 40
+        }
+    ]
+}
