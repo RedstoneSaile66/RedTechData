@@ -1,1 +1,9 @@
-{"playerName":"RedTech","highscore":100,"coins":50}
+{
+    "players": [
+        {
+            "playerName": "BastiGHG",
+            "highscore": 15,
+            "coins": 36
+        }
+    ]
+}
