@@ -1,9 +1,3 @@
 {
-    "players": [
-        {
-            "playerName": "BastiGHG",
-            "highscore": 15,
-            "coins": 37
-        }
-    ]
+    "players": []
 }
